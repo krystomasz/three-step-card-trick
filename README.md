@@ -6,6 +6,12 @@ Think of a card, follow three quick steps, and the application will correctly id
 
 No server, no database, no external libraries, and no images are required.
 
+## Live Demo
+
+🎴 Try it now:
+
+**https://krystomasz.github.io/three-step-card-trick/**
+
 ## How It Works
 
 The application uses a classic mathematical card trick based on:
